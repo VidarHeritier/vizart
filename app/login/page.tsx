@@ -1,7 +1,11 @@
-export default function Login() {
+import React from "react";
+
+const Login = () => {
   return (
-    <main>
+    <div>
       <h2>Login</h2>
-    </main>
+    </div>
   );
-}
+};
+
+export default Login;
