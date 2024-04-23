@@ -3,6 +3,8 @@ import Button from "./loginlink";
 import Main from "./main";
 import Header from "./header";
 
+import React from "react";
+
 export default function Home() {
   return (
     <Main>
